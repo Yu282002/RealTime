@@ -1,0 +1,12 @@
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\bin\Debug\net8.0\SimpleSignalR.Domain.deps.json
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\bin\Debug\net8.0\SimpleSignalR.Domain.dll
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\bin\Debug\net8.0\SimpleSignalR.Domain.pdb
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\obj\Debug\net8.0\SimpleSignalR.Domain.csproj.AssemblyReference.cache
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\obj\Debug\net8.0\SimpleSignalR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\obj\Debug\net8.0\SimpleSignalR.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\obj\Debug\net8.0\SimpleSignalR.Domain.AssemblyInfo.cs
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\obj\Debug\net8.0\SimpleSignalR.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\obj\Debug\net8.0\SimpleSignalR.Domain.dll
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\obj\Debug\net8.0\refint\SimpleSignalR.Domain.dll
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\obj\Debug\net8.0\SimpleSignalR.Domain.pdb
+C:\Users\admin\User\Desktop\PEPRN231_SU24_009909_HoNhuNgoc\SimpleSignalR\SimpleSignalR.Domain\obj\Debug\net8.0\ref\SimpleSignalR.Domain.dll
